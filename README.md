@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/68915904/145317778-8caba827-c0e0-4324-
 
 <!-- ABOUT THE PROJECT-->
 ## About The Project
-This a project for learning the slicing part of a given template. After slicing it can edited dynamically.
+This is a project for learning the slicing part of a given template. After slicing it can edited dynamically.
 
 
 ---
